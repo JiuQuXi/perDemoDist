@@ -1,11 +1,11 @@
 {
-  "versionCode": 46,
-  "versionName": "4.5.2",
+  "versionCode": 47,
+  "versionName": "4.5.3",
   "minSdk": 26,
-  "size": 2590969,
-  "sha256": "4ad64cdb2a68bf1ed3cbdb070b5c7e2418ac9bcf3aca57f1f472ae82a03946c7",
+  "size": 2590965,
+  "sha256": "aa3b13a70ea76215448efdffebff6ba27a809bc479f0bd26816dc2c2f3dbbb49",
   "apk": "pdl-watch.apk",
-  "notes": "修复「已是最新版本」误判：检查更新改为服务器优先（镜像缓存旧版时不再误判）；配合 4.5.1 的逐源校验，自动更新链路恢复正常",
-  "publishedAt": "2026-11-21T14:21:38.839Z",
-  "apkVersioned": "pdl-watch-4.5.2.apk"
+  "notes": "验证用版本：检查更新与逐源下载校验联调（用户可见内容与 4.5.2 相同）",
+  "publishedAt": "2026-11-21T14:29:18.014Z",
+  "apkVersioned": "pdl-watch-4.5.3.apk"
 }
