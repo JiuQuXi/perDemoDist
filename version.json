@@ -1,11 +1,11 @@
 {
-  "versionCode": 31,
-  "versionName": "4.3.1",
+  "versionCode": 32,
+  "versionName": "4.3.2",
   "minSdk": 26,
   "size": 2590129,
-  "sha256": "fdb8fa9d730ae0f59f9401b54017e360ff4fc179defd3496b96c08cd2c9298e7",
+  "sha256": "fe61d28a0bbfb80804105d4890354e8f8f6025764d169077b1fa44268eb9cb4f",
   "apk": "pdl-watch.apk",
-  "notes": "下载页改为多源自动选择（CDN 优先）；APK 改用带版本号文件名，规避 CDN 缓存旧包",
-  "publishedAt": "2026-11-21T11:41:52.264Z",
-  "apkVersioned": "pdl-watch-4.3.1.apk"
+  "notes": "下载页多源自动选择（CDN 优先）；APK 带版本号文件名规避 CDN 缓存；发版脚本增加 APK 版本号护栏",
+  "publishedAt": "2026-11-21T11:43:16.497Z",
+  "apkVersioned": "pdl-watch-4.3.2.apk"
 }
