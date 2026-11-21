@@ -1,11 +1,11 @@
 {
-  "versionCode": 39,
-  "versionName": "4.3.9",
+  "versionCode": 40,
+  "versionName": "4.4.0",
   "minSdk": 26,
-  "size": 2592301,
-  "sha256": "f6ce5c05a924203bb8a5fdb2b0ff0828f9d7c7a93fcc219cca2e0ac37c7c0541",
+  "size": 2592573,
+  "sha256": "18acdcb64296be9b91af74af673ea455d0ca02327599cb2d53d07288e7345972",
   "apk": "pdl-watch.apk",
-  "notes": "点击消息可回填「门店 + 商品」并自动搜索；消息记录带门店/商品标识",
-  "publishedAt": "2026-11-21T13:04:17.834Z",
-  "apkVersioned": "pdl-watch-4.3.9.apk"
+  "notes": "搜索支持胖东来自营(DL)商品：同时按 70213 与 67242 两个 venderId 查询并合并结果（原来只查白标，自营商品如「DL快熟燕麦片2kg」搜不到）",
+  "publishedAt": "2026-11-21T13:23:20.814Z",
+  "apkVersioned": "pdl-watch-4.4.0.apk"
 }
