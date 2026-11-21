@@ -1,11 +1,11 @@
 {
-  "versionCode": 43,
-  "versionName": "4.4.3",
+  "versionCode": 44,
+  "versionName": "4.5.0",
   "minSdk": 26,
-  "size": 2592981,
-  "sha256": "76ca947f897e3b61b4bf554121dbaede51d32c191614e426fd9c30a46cf6590c",
+  "size": 2590789,
+  "sha256": "3738247719e110503a67367fd8c2d986c89a44b1dfad45638dfe6d52c931c27c",
   "apk": "pdl-watch.apk",
-  "notes": "修复每次打开 App 都弹「库存提醒」：SSE 握手帧 {\"ok\":true} 被当成了通知；前台常驻通知改为静音且只提醒一次",
-  "publishedAt": "2026-11-21T13:56:18.730Z",
-  "apkVersioned": "pdl-watch-4.4.3.apk"
+  "notes": "移除 SSE 长连接（服务器只做授权，通知全部本地生成）；我的页去掉「实时连接」；前台常驻通知改静音",
+  "publishedAt": "2026-11-21T14:01:08.756Z",
+  "apkVersioned": "pdl-watch-4.5.0.apk"
 }
