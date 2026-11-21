@@ -1,11 +1,11 @@
 {
-  "versionCode": 37,
-  "versionName": "4.3.7",
+  "versionCode": 38,
+  "versionName": "4.3.8",
   "minSdk": 26,
-  "size": 2591845,
-  "sha256": "54cd5ace9279a13c8da303ccb229b491b803abe5a1c942112b18f6b8a91d8666",
+  "size": 2592093,
+  "sha256": "46af461f1f9244af0d99c02606412aef667284acda35cae83198eaae748d97bb",
   "apk": "pdl-watch.apk",
-  "notes": "提醒去重：库存状态按「门店+商品」记录（原来只按商品，导致同款在两家店互相覆盖反复提醒）；同门店+商品 30 分钟内不重复提醒；监听列表显示门店名",
-  "publishedAt": "2026-11-21T12:48:04.368Z",
-  "apkVersioned": "pdl-watch-4.3.7.apk"
+  "notes": "消息页新增「删除已读」，一键清掉已读提醒，只保留未读",
+  "publishedAt": "2026-11-21T12:58:29.077Z",
+  "apkVersioned": "pdl-watch-4.3.8.apk"
 }
