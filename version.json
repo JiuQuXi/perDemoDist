@@ -1,0 +1,10 @@
+{
+  "versionCode": 28,
+  "versionName": "4.2.8",
+  "minSdk": 26,
+  "size": 2590185,
+  "sha256": "1e36a3233571395f988daffa0a44f9b4e44e9f2360ba58e56f6d8ceb4f781285",
+  "apk": "pdl-watch.apk",
+  "notes": "更新检查改为服务器优先（GitHub 仓库私有，镜像线路不可用），GitHub 线路保留为公开后的备份",
+  "publishedAt": "2026-11-21T11:25:58.786Z"
+}
