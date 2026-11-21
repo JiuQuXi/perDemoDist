@@ -1,11 +1,11 @@
 {
-  "versionCode": 38,
-  "versionName": "4.3.8",
+  "versionCode": 39,
+  "versionName": "4.3.9",
   "minSdk": 26,
-  "size": 2592093,
-  "sha256": "46af461f1f9244af0d99c02606412aef667284acda35cae83198eaae748d97bb",
+  "size": 2592301,
+  "sha256": "f6ce5c05a924203bb8a5fdb2b0ff0828f9d7c7a93fcc219cca2e0ac37c7c0541",
   "apk": "pdl-watch.apk",
-  "notes": "消息页新增「删除已读」，一键清掉已读提醒，只保留未读",
-  "publishedAt": "2026-11-21T12:58:29.077Z",
-  "apkVersioned": "pdl-watch-4.3.8.apk"
+  "notes": "点击消息可回填「门店 + 商品」并自动搜索；消息记录带门店/商品标识",
+  "publishedAt": "2026-11-21T13:04:17.834Z",
+  "apkVersioned": "pdl-watch-4.3.9.apk"
 }
