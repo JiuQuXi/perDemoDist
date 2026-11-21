@@ -1,11 +1,11 @@
 {
-  "versionCode": 32,
-  "versionName": "4.3.2",
+  "versionCode": 33,
+  "versionName": "4.3.3",
   "minSdk": 26,
-  "size": 2590129,
-  "sha256": "fe61d28a0bbfb80804105d4890354e8f8f6025764d169077b1fa44268eb9cb4f",
+  "size": 2590181,
+  "sha256": "1637e9f32639e7fe967a505f4f4c5e9f8993d5cb124fde2e711070aaff0aa8ac",
   "apk": "pdl-watch.apk",
-  "notes": "下载页多源自动选择（CDN 优先）；APK 带版本号文件名规避 CDN 缓存；发版脚本增加 APK 版本号护栏",
-  "publishedAt": "2026-11-21T11:43:16.497Z",
-  "apkVersioned": "pdl-watch-4.3.2.apk"
+  "notes": "修复库存判定：售罄(wareStatus=3) 时接口仍返回 sell=true，导致售罄商品被显示为有货、补货提醒永不触发；列表改为显示「售罄」",
+  "publishedAt": "2026-11-21T12:18:21.524Z",
+  "apkVersioned": "pdl-watch-4.3.3.apk"
 }
