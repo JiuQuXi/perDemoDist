@@ -1,11 +1,11 @@
 {
-  "versionCode": 44,
-  "versionName": "4.5.0",
+  "versionCode": 46,
+  "versionName": "4.5.2",
   "minSdk": 26,
-  "size": 2590789,
-  "sha256": "3738247719e110503a67367fd8c2d986c89a44b1dfad45638dfe6d52c931c27c",
+  "size": 2590969,
+  "sha256": "4ad64cdb2a68bf1ed3cbdb070b5c7e2418ac9bcf3aca57f1f472ae82a03946c7",
   "apk": "pdl-watch.apk",
-  "notes": "移除 SSE 长连接（服务器只做授权，通知全部本地生成）；我的页去掉「实时连接」；前台常驻通知改静音",
-  "publishedAt": "2026-11-21T14:01:08.756Z",
-  "apkVersioned": "pdl-watch-4.5.0.apk"
+  "notes": "修复「已是最新版本」误判：检查更新改为服务器优先（镜像缓存旧版时不再误判）；配合 4.5.1 的逐源校验，自动更新链路恢复正常",
+  "publishedAt": "2026-11-21T14:21:38.839Z",
+  "apkVersioned": "pdl-watch-4.5.2.apk"
 }
