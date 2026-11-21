@@ -1,11 +1,11 @@
 {
-  "versionCode": 42,
-  "versionName": "4.4.2",
+  "versionCode": 43,
+  "versionName": "4.4.3",
   "minSdk": 26,
-  "size": 2592753,
-  "sha256": "4c92462ed3d3e533e9df2832a01e829275e8adc944e9f10c7ace15e5cf8d9328",
+  "size": 2592981,
+  "sha256": "76ca947f897e3b61b4bf554121dbaede51d32c191614e426fd9c30a46cf6590c",
   "apk": "pdl-watch.apk",
-  "notes": "检查更新兜底：当前版本号一定会显示（桥/UA 双兜底）；无法自动更新时弹窗引导用浏览器手动下载；新增「打开浏览器」桥",
-  "publishedAt": "2026-11-21T13:37:32.860Z",
-  "apkVersioned": "pdl-watch-4.4.2.apk"
+  "notes": "修复每次打开 App 都弹「库存提醒」：SSE 握手帧 {\"ok\":true} 被当成了通知；前台常驻通知改为静音且只提醒一次",
+  "publishedAt": "2026-11-21T13:56:18.730Z",
+  "apkVersioned": "pdl-watch-4.4.3.apk"
 }
