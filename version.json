@@ -1,11 +1,11 @@
 {
-  "versionCode": 35,
-  "versionName": "4.3.5",
+  "versionCode": 36,
+  "versionName": "4.3.6",
   "minSdk": 26,
-  "size": 2591677,
-  "sha256": "18b12845d10f38351cc8a0001e33e28fb055c0a80b8ca923ce172488d02d3648",
+  "size": 2591721,
+  "sha256": "3f50d778c9017162a720d0fa37fb8e8fb7d7e4953f7c758516736916f4b2d47a",
   "apk": "pdl-watch.apk",
-  "notes": "通知正文增加门店名（🟢 乌苏啤酒620ml 补货了 / 新乡胖东来生活广场超市 · ¥6.0 有货了）；消息列表同步展示门店",
-  "publishedAt": "2026-11-21T12:34:39.072Z",
-  "apkVersioned": "pdl-watch-4.3.5.apk"
+  "notes": "同一商品在多家店监听时，补货提醒只发一次（去重）",
+  "publishedAt": "2026-11-21T12:41:45.161Z",
+  "apkVersioned": "pdl-watch-4.3.6.apk"
 }
