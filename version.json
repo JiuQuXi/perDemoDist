@@ -1,10 +1,10 @@
 {
-  "versionCode": 28,
-  "versionName": "4.2.8",
+  "versionCode": 29,
+  "versionName": "4.2.9",
   "minSdk": 26,
-  "size": 2590185,
-  "sha256": "1e36a3233571395f988daffa0a44f9b4e44e9f2360ba58e56f6d8ceb4f781285",
+  "size": 2590129,
+  "sha256": "d0d64ad7c26658c954af2fa7522274d56ae41be71441523fddde110ceba377fd",
   "apk": "pdl-watch.apk",
-  "notes": "更新检查改为服务器优先（GitHub 仓库私有，镜像线路不可用），GitHub 线路保留为公开后的备份",
-  "publishedAt": "2026-11-21T11:25:58.786Z"
+  "notes": "更新线路改为镜像优先：ghfast/gh-proxy/raw 检查，jsDelivr 下载，自建服务器兜底",
+  "publishedAt": "2026-11-21T11:35:25.607Z"
 }
