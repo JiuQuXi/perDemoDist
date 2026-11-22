@@ -1,11 +1,11 @@
 {
-  "versionCode": 48,
-  "versionName": "4.6.0",
+  "versionCode": 49,
+  "versionName": "4.6.1",
   "minSdk": 26,
-  "size": 2592005,
-  "sha256": "6ac8490ff3d64ebf9d4dc7e9f9e8d5c5a11810148c7520e1d5c737c7de26162a",
+  "size": 2592349,
+  "sha256": "f25d6d7cd85d0f5d8533e41ee6b0d603bfab0a101dc13bab3375b7f929a88996",
   "apk": "pdl-watch.apk",
-  "notes": "补货时增加语音播报「来货了，开干」；我的页新增「测试提醒」自检按钮；提醒不弹任何对话框",
-  "publishedAt": "2026-11-22T11:14:59.929Z",
-  "apkVersioned": "pdl-watch-4.6.0.apk"
+  "notes": "「测试提醒」下方新增「没声音？」提示：显示 TTS 引擎状态，按钮直接跳系统「文字转语音」设置页",
+  "publishedAt": "2026-11-22T11:18:57.118Z",
+  "apkVersioned": "pdl-watch-4.6.1.apk"
 }
