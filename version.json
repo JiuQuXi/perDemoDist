@@ -1,11 +1,11 @@
 {
-  "versionCode": 47,
-  "versionName": "4.5.3",
+  "versionCode": 48,
+  "versionName": "4.6.0",
   "minSdk": 26,
-  "size": 2590965,
-  "sha256": "aa3b13a70ea76215448efdffebff6ba27a809bc479f0bd26816dc2c2f3dbbb49",
+  "size": 2592005,
+  "sha256": "6ac8490ff3d64ebf9d4dc7e9f9e8d5c5a11810148c7520e1d5c737c7de26162a",
   "apk": "pdl-watch.apk",
-  "notes": "验证用版本：检查更新与逐源下载校验联调（用户可见内容与 4.5.2 相同）",
-  "publishedAt": "2026-11-21T14:29:18.014Z",
-  "apkVersioned": "pdl-watch-4.5.3.apk"
+  "notes": "补货时增加语音播报「来货了，开干」；我的页新增「测试提醒」自检按钮；提醒不弹任何对话框",
+  "publishedAt": "2026-11-22T11:14:59.929Z",
+  "apkVersioned": "pdl-watch-4.6.0.apk"
 }
