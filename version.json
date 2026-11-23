@@ -1,11 +1,11 @@
 {
-  "versionCode": 49,
-  "versionName": "4.6.1",
+  "versionCode": 50,
+  "versionName": "4.7.0",
   "minSdk": 26,
-  "size": 2592349,
-  "sha256": "f25d6d7cd85d0f5d8533e41ee6b0d603bfab0a101dc13bab3375b7f929a88996",
+  "size": 2593289,
+  "sha256": "6469c92244a2d1001749c4777f56c2603f562f23a9fd83524bf711e5cc72cfc4",
   "apk": "pdl-watch.apk",
-  "notes": "「测试提醒」下方新增「没声音？」提示：显示 TTS 引擎状态，按钮直接跳系统「文字转语音」设置页",
-  "publishedAt": "2026-11-22T11:18:57.118Z",
-  "apkVersioned": "pdl-watch-4.6.1.apk"
+  "notes": "新增网络诊断：一键检查网络类型/DNS/服务器/胖东来接口，可复制结果；搜索失败改为显示具体原因（原来是笼统的「网络异常」）",
+  "publishedAt": "2026-11-23T04:00:32.613Z",
+  "apkVersioned": "pdl-watch-4.7.0.apk"
 }
