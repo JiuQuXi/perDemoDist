@@ -1,11 +1,11 @@
 {
-  "versionCode": 55,
-  "versionName": "4.7.5",
+  "versionCode": 56,
+  "versionName": "4.7.6",
   "minSdk": 26,
-  "size": 2595657,
-  "sha256": "c9dbdb83667c32597cb18c6cacead4fbb6d1a0bd9f51a1fa088a09d068144ebd",
+  "size": 2595989,
+  "sha256": "0219ef1bf8bfe6e17cd0f8789cdbeaa78b4a79d35d47e25b4bd2d0fd2de9d828",
   "apk": "pdl-watch.apk",
-  "notes": "修复异常设备码：华为等 ROM 返回全 0 的 ANDROID_ID 时自动改用随机标识重新生成；服务端同时拒绝全 0/过短设备码的激活",
-  "publishedAt": "2026-11-23T08:44:27.692Z",
-  "apkVersioned": "pdl-watch-4.7.5.apk"
+  "notes": "常驻通知改为「库存监控运行中·可收起」（系统要求前台服务必须有通知，无法完全去掉）；通知渠道改为启动即创建（用户可在系统设置里看到并单独开关）；诊断新增「后台服务+上次轮询时间」，可判断是不是被系统杀了",
+  "publishedAt": "2026-11-23T11:37:56.894Z",
+  "apkVersioned": "pdl-watch-4.7.6.apk"
 }
