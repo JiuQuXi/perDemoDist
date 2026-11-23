@@ -1,11 +1,11 @@
 {
-  "versionCode": 51,
-  "versionName": "4.7.1",
+  "versionCode": 52,
+  "versionName": "4.7.2",
   "minSdk": 26,
-  "size": 2593989,
-  "sha256": "aca27ce8d7cee77cbf2f4c3d2069efbeefcd0d9e5c5e26c43a5cceda6f63fc1d",
+  "size": 2594377,
+  "sha256": "a5c8002dac4e05076a7b498f5d1f66b6e3c43f9ff306f28c9679fd7051bcc296",
   "apk": "pdl-watch.apk",
-  "notes": "网络诊断增加「系统时间偏差」检测（时间不对会让 HTTPS 全部失败，表现为别的 App 正常只有本 App 连不上）",
-  "publishedAt": "2026-11-23T04:12:45.873Z",
-  "apkVersioned": "pdl-watch-4.7.1.apk"
+  "notes": "华为/荣耀适配：识别华为设备并新增「应用启动管理」一键跳转与图文指引；权限页新增「补货提醒渠道是否被关闭」检测",
+  "publishedAt": "2026-11-23T06:43:43.732Z",
+  "apkVersioned": "pdl-watch-4.7.2.apk"
 }
