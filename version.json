@@ -1,11 +1,11 @@
 {
-  "versionCode": 52,
-  "versionName": "4.7.2",
+  "versionCode": 53,
+  "versionName": "4.7.3",
   "minSdk": 26,
-  "size": 2594377,
-  "sha256": "a5c8002dac4e05076a7b498f5d1f66b6e3c43f9ff306f28c9679fd7051bcc296",
+  "size": 2595141,
+  "sha256": "a55fa5baff7cdd861bfc7d90686ca881eab0e892bb07af85cf5d3e036de177ed",
   "apk": "pdl-watch.apk",
-  "notes": "华为/荣耀适配：识别华为设备并新增「应用启动管理」一键跳转与图文指引；权限页新增「补货提醒渠道是否被关闭」检测",
-  "publishedAt": "2026-11-23T06:43:43.732Z",
-  "apkVersioned": "pdl-watch-4.7.2.apk"
+  "notes": "网络诊断补充：系统与机型（识别 HarmonyOS）、通知权限与补货渠道状态、电池优化白名单——华为收不到提醒时可直接定位",
+  "publishedAt": "2026-11-23T06:48:32.777Z",
+  "apkVersioned": "pdl-watch-4.7.3.apk"
 }
