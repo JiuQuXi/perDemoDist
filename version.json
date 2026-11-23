@@ -1,11 +1,11 @@
 {
-  "versionCode": 53,
-  "versionName": "4.7.3",
+  "versionCode": 54,
+  "versionName": "4.7.4",
   "minSdk": 26,
-  "size": 2595141,
-  "sha256": "a55fa5baff7cdd861bfc7d90686ca881eab0e892bb07af85cf5d3e036de177ed",
+  "size": 2595361,
+  "sha256": "c2784e1cbd44da48752858b6f48ada66e9670595da7404cb5c67c3d00d9aea0b",
   "apk": "pdl-watch.apk",
-  "notes": "网络诊断补充：系统与机型（识别 HarmonyOS）、通知权限与补货渠道状态、电池优化白名单——华为收不到提醒时可直接定位",
-  "publishedAt": "2026-11-23T06:48:32.777Z",
-  "apkVersioned": "pdl-watch-4.7.3.apk"
+  "notes": "修复：原生授权失效后网页仍停留在「我的」页（现强制回激活页并提示重新激活）；修复「复制诊断结果」在鸿蒙/部分 ROM 无效（改走原生剪贴板）",
+  "publishedAt": "2026-11-23T08:25:29.454Z",
+  "apkVersioned": "pdl-watch-4.7.4.apk"
 }
