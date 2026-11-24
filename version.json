@@ -1,11 +1,11 @@
 {
-  "versionCode": 56,
-  "versionName": "4.7.6",
+  "versionCode": 57,
+  "versionName": "4.7.7",
   "minSdk": 26,
-  "size": 2595989,
-  "sha256": "0219ef1bf8bfe6e17cd0f8789cdbeaa78b4a79d35d47e25b4bd2d0fd2de9d828",
+  "size": 2599197,
+  "sha256": "bbfa83bf21e594af935c158aefb136b9a01afffabeadd3bf7612e7b031e15948",
   "apk": "pdl-watch.apk",
-  "notes": "常驻通知改为「库存监控运行中·可收起」（系统要求前台服务必须有通知，无法完全去掉）；通知渠道改为启动即创建（用户可在系统设置里看到并单独开关）；诊断新增「后台服务+上次轮询时间」，可判断是不是被系统杀了",
-  "publishedAt": "2026-11-23T11:37:56.894Z",
-  "apkVersioned": "pdl-watch-4.7.6.apk"
+  "notes": "修后台不提醒：前台服务改 specialUse 绕开 Android 15/16 的 6 小时上限；15 分钟兜底真正查库存；授权不再因网络抖动失效。诊断新增「提醒投递」「轮询设置」与上轮检查结果",
+  "publishedAt": "2026-11-24T12:37:16.446Z",
+  "apkVersioned": "pdl-watch-4.7.7.apk"
 }
